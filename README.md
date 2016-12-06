@@ -6,8 +6,8 @@ A toolbox for procedural building and positioning of objects in the Unreal Engin
 ## Sources
 * Linear Array
 * Radial Array
-* Random 3d (w/ minimum spacing)
-* Random 2d (w/ minimum spacing)
+* Random 3d (w/ minimum spacing, or Poisson)
+* Random 2d (w/ minimum spacing, or Poisson)
 
 ## Modifiers
 * Drop to surface
